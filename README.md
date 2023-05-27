@@ -1,5 +1,6 @@
 # Git_With_Girls_Summary
 
+## Psycholinguistics
 Psycholinguistics is indeed the scientific study of how people comprehend, produce, and acquire language. It combines principles and methods from psychology and linguistics to investigate how language is processed and represented in the human mind.
 
 Psycholinguistics aims to uncover the cognitive processes and mechanisms underlying various aspects of language, such as speech perception, word recognition, sentence processing, and discourse comprehension. It investigates questions related to how individuals comprehend the meaning of words and sentences, how they produce coherent and meaningful speech, how language is stored and accessed in memory, and how language is acquired and learned.

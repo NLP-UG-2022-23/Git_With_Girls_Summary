@@ -1,5 +1,12 @@
 # Git_With_Girls_Summary
 
+Psycholinguistics is indeed the scientific study of how people comprehend, produce, and acquire language. It combines principles and methods from psychology and linguistics to investigate how language is processed and represented in the human mind.
+
+Psycholinguistics aims to uncover the cognitive processes and mechanisms underlying various aspects of language, such as speech perception, word recognition, sentence processing, and discourse comprehension. It investigates questions related to how individuals comprehend the meaning of words and sentences, how they produce coherent and meaningful speech, how language is stored and accessed in memory, and how language is acquired and learned.
+
+By examining the mental processes involved in language use, psycholinguistics provides valuable insights into the nature of human language processing. It helps us understand the mechanisms that allow us to comprehend and produce language, as well as the factors that influence language comprehension and production. Psycholinguistic research often involves experiments and data analysis to gather empirical evidence about language processing and to develop theories and models that explain these processes.
+
+
 ## Pragmatics
 
 Pragmatics is the study of how context affects meaning. It involves analyzing physical and linguistic context to understand communication.
@@ -30,4 +37,5 @@ Here are a few more examples of presupposition:
 
 - "Where is your book about pragmatics?" - The presupposition is that the listener has a book about pragmatics.
 - "Why do you like pragmatics?" - The presupposition is that the listener likes pragmatics.
+
 

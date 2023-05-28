@@ -11,6 +11,7 @@ By examining the mental processes involved in language use, psycholinguistics pr
 
 Pragmatics is the study of how context affects meaning. It involves analyzing physical and linguistic context to understand communication.
 
+
 <img src="https://img.freepik.com/free-vector/hand-drawn-business-communication-concept_52683-76159.jpg?w=996&t=st=1685296217~exp=1685296817~hmac=3c8434b0e65a1dad46a567a527ed37fb1b1fe80d0fb11df9e54e6f46c5189ded" alt="Communication">
 
 

@@ -6,6 +6,15 @@ Psycholinguistics aims to uncover the cognitive processes and mechanisms underly
 
 By examining the mental processes involved in language use, psycholinguistics provides valuable insights into the nature of human language processing. It helps us understand the mechanisms that allow us to comprehend and produce language, as well as the factors that influence language comprehension and production. Psycholinguistic research often involves experiments and data analysis to gather empirical evidence about language processing and to develop theories and models that explain these processes.
 
+Despite the challenges involved in dissecting brains to understand their functioning, there are still indications that provide insights into how our brains handle language. Speech errors serve as one such clue and are commonly observed even among individuals without language impairments. Here are a few examples:
+
+The Tip of the Tongue (TOT) phenomenon: This occurs when we are unable to recall an entire word but retain some partial knowledge about its phonological aspects, such as its initial letter, syllable count, or stress pattern. The TOT phenomenon suggests that words are stored in our brains based on phonological information. Occasionally, we may substitute a similar word in place of the intended one, resulting in a malapropism. For instance, a baseball player once mistakenly stated, "Texas has a lot of electrical votes" instead of "Texas has a lot of electoral votes."
+
+Slip of the tongue: This happens when we know how words should be pronounced but still make errors during their production. One specific type of slip is known as a spoonerism, where the initial sounds of words are swapped. This term originates from William Spooner, an Oxford clergyman renowned for his spoonerisms, such as "You have hissed all my mystery lectures. You have tasted a whole worm. Please leave Oxford on the next town drain."
+
+Slip of the ear or Mondegreen: This occurs when we mishear a phrase and interpret it as a similar-sounding expression. A well-known example is "Gladly the cross-eyed bear" misinterpreted from the hymn "Keep Thou My Way" where the original line is "Gladly the cross I bear."
+
+These speech errors offer valuable insights into the challenges faced by individuals with language disorders. Linguists have extensively studied these errors and proposed models to understand how our brain processes language.
 
 ## Pragmatics
 

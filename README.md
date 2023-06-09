@@ -7,7 +7,10 @@ Psycholinguistics is indeed the scientific study of how people comprehend, produ
 
 ## Aim
 
+## Aim
+
 Psycholinguistics aims to uncover the cognitive processes and mechanisms underlying various aspects of language, such as speech perception, word recognition, sentence processing, and discourse comprehension. It investigates questions related to how individuals comprehend the meaning of words and sentences, how they produce coherent and meaningful speech, how language is stored and accessed in memory, and how language is acquired and learned.
+
 
 ## Speech and Comprehension Errors
 Although dissecting brains to unravel their functioning is a challenging task, there are still valuable indications regarding the language processing abilities of our brains. One such source of insights is the occurrence of speech errors, which even regular individuals commonly make. Below are several illustrative examples:
@@ -25,7 +28,11 @@ These speech errors shed light on the challenges faced by individuals with langu
 By examining the mental processes involved in language use, psycholinguistics provides valuable insights into the nature of human language processing. It helps us understand the mechanisms that allow us to comprehend and produce language, as well as the factors that influence language comprehension and production. Psycholinguistic research often involves experiments and data analysis to gather empirical evidence about language processing and to develop theories and models that explain these processes.
 
 
+
 <span style="font-size: larger;"> ## Pragmatics</span>
+
+<span style="font-size: larger;">## Pragmatics</span>
+
 
 Pragmatics is the study of how context affects meaning. It involves analyzing physical and linguistic context to understand communication.
 

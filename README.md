@@ -157,5 +157,28 @@ Morphemes can be categorized as follows:
 
 5. **Lexical morphemes**: They represent the main concepts and content of the message. Examples include words like "ship," "orange," and "president." Lexical morphemes form an open set of words in a language.
 
-6. **Functional morphemes**: These morphemes serve functional purposes in a language, such as determiners, pronouns, conjunctions, etc. Examples include words like "whatever," "because," and "against."
+6. **Functional morphemes**: These morphemes serve functional purposes in a language, such as determiners, pronouns, conjunctions, etc. Examples include words like "whatever," "because," and "against. 
 
+Affixation
+
+It is the process of using affixes, which are morphemes, to create new words. Affixes can be categorized into several types:
+
+    Suffixes: These morphemes are added to the end of a word. For example, in the words "motion" and "investigate," the suffixes are "-ion" and "-ate" respectively. Suffixes are indicated by an initial hyphen.
+
+    Prefixes: These morphemes are attached to the beginning of a word. For instance, in the words "redo" and "unthinkable," the prefixes are "re-" and "un-" respectively. Prefixes are denoted by a terminal hyphen.
+
+    Infixes: While English does not commonly use infixes, which are morphemes inserted within a word, some languages do. An exception in English could be the infix "-bloody-" in the following example:
+
+    Q: Are you going to the concert tonight?
+    A: Absobloodylutely.
+
+    In this case, "-bloody-" is inserted within the word "absolutely." Infixes are represented by both initial and terminal hyphens.
+
+    Circumfixes: Circumfixes are affixes that surround a word, attaching to both the beginning and the end. English has limited examples of circumfixes, but they are more common in other languages. One well-known example is the German past participle formed by "ge-" at the beginning and "-t" at the end for regular verbs. In English, "en-" and "-en" in words like "enlighten" and "embolden" are essentially the same circumfix. In older usage, the present participle could be formed using the circumfix "a-" at the beginning and "-ing" at the end, as in "a-flying" or "a-caroling." Circumfixes are represented by both initial and terminal hyphens.
+
+Sometimes, multiple affixations occur, where affixes are added successively. The original word, which is a free morpheme, is called the stem or root. Affixes can be attached to the stem in a sequential manner. For example:
+
+Original word: govern
+Affixes: anti- inter- -ment -al-ist
+
+In this case, "govern" is the root, while "anti-" and "inter-" are prefixes, and "-ment," "-al," and "-ist" are suffixes.

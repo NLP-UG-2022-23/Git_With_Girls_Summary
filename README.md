@@ -3,9 +3,9 @@
 # Psycholinguistics
 
 Psycholinguistics is indeed the scientific study of how people comprehend, produce, and acquire language. It combines principles and methods from psychology and linguistics to investigate how language is processed and represented in the human mind.
-![Psycholinguistics image](schwarz-florian-glossa-psycholinguistics-journal-teaser.jpg)
 
-## Aim
+![schwarz-florian-glossa-psycholinguistics-journal-teaser](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754426/1c5e0ede-e608-41f5-8b14-b42aaadaba3d)
+
 
 ## Aim
 
@@ -17,9 +17,9 @@ Although dissecting brains to unravel their functioning is a challenging task, t
 
 - The Tip of the Tongue (TOT) phenomenon: This phenomenon arises when we struggle to recall an entire word, yet retain a vague sense of its phonological features, such as the initial letter, number of syllables, or stress pattern. The TOT phenomenon suggests that our brains store words based on their phonological information. Occasionally, we substitute another word that is similar, which is referred to as malapropism. For instance, a baseball player once mistakenly stated, "Texas has a lot of electrical votes" instead of "Texas has a lot of electoral votes."
 
--Slip of the Tongue: This error transpires when we know how words should be pronounced, but still commit mistakes during their production. One particular type of slip is known as spoonerism, which involves interchanging the initial sounds of words. It derives its name from William Spooner, an Oxford clergyman renowned for his spoonerisms, such as "You have hissed all my mystery lectures. You have tasted a whole worm. Please leave Oxford on the next town drain."
+- Slip of the Tongue: This error transpires when we know how words should be pronounced, but still commit mistakes during their production. One particular type of slip is known as spoonerism, which involves interchanging the initial sounds of words. It derives its name from William Spooner, an Oxford clergyman renowned for his spoonerisms, such as "You have hissed all my mystery lectures. You have tasted a whole worm. Please leave Oxford on the next town drain."
 
--Slip of the Ear/Mondegreen: This type of error occurs when we misinterpret an expression we hear as a near-homophonic alternative. An example of this is the misheard line "Gladly the cross-eyed bear" instead of "Gladly the cross I bear" in the hymn "Keep Thou My Way."
+- Slip of the Ear/Mondegreen: This type of error occurs when we misinterpret an expression we hear as a near-homophonic alternative. An example of this is the misheard line "Gladly the cross-eyed bear" instead of "Gladly the cross I bear" in the hymn "Keep Thou My Way."
 
 These speech errors shed light on the challenges faced by individuals with language disorders. Linguists have extensively examined these errors and proposed models to elucidate how our brains process language.
 

@@ -165,3 +165,18 @@ Morphemes can be categorized as follows:
 5. **Lexical morphemes**: They represent the main concepts and content of the message. Examples include words like "ship," "orange," and "president." Lexical morphemes form an open set of words in a language.
 
 6. **Functional morphemes**: These morphemes serve functional purposes in a language, such as determiners, pronouns, conjunctions, etc. Examples include words like "whatever," "because," and "against."
+
+# **Language Acquisition**
+
+First language acquisition is an **essential process** that takes place with unimaginable speed. As human beings we become language-users without overt instruction long before we go to school. There is an assumption that there is an innate predisposition in the human infant to acquire language.
+
+## ** CRITICAL PERIOD **
+In the chapter XIII of the book _The Study of Language_ by George Yule we read that a child who is not able to hear or is not allowed to use language **will learn no language**. The critical period that lasts until child's puberty is the state when the human brain is most ready to receive input and learn a particular language. To do so, there is necessity of the interaction with other language-users, for example, parents, in order to bring the general language capacity into operation with a particular language. **If a child does not acquire language during this period, then it will find it almost impossible to learn language later on**.
+
+
+## **IS THE LANGUAGE GENETICALLY INHERITED?**
+The language a child learns is not genetically inherited but is acquired in a particular language-using environment, so via cultural transmission. “The child must also be physically capable of sending and receiving sound signals in a language"; the opportunity to interact with other via language.
+
+## ** THE SPEECH OF THE CARETAKER AND ITS ROLE **
+It is reflexive that parents speak to their children using simple sentence structures and exaggerated intonation. However, researchers agree in saying that **a child should be spoken to as an adult**. There should be no distortion of speech, no usage of 'baby talk'. The child is supposed to develop and liken its speech to natural human conversation. 
+![caretaker image](caretaker.jpg)

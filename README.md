@@ -165,4 +165,3 @@ Morphemes can be categorized as follows:
 5. **Lexical morphemes**: They represent the main concepts and content of the message. Examples include words like "ship," "orange," and "president." Lexical morphemes form an open set of words in a language.
 
 6. **Functional morphemes**: These morphemes serve functional purposes in a language, such as determiners, pronouns, conjunctions, etc. Examples include words like "whatever," "because," and "against."
-

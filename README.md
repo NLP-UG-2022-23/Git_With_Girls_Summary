@@ -29,10 +29,7 @@ By examining the mental processes involved in language use, psycholinguistics pr
 
 
 
-<span style="font-size: larger;"> ## Pragmatics</span>
-
-<span style="font-size: larger;">## Pragmatics</span>
-
+## Pragmatics
 
 Pragmatics is the study of how context affects meaning. It involves analyzing physical and linguistic context to understand communication.
 
@@ -134,7 +131,7 @@ Felicity conditions are the conditions that need to be satisfied for a speech ac
 
 These felicity conditions play a crucial role in ensuring effective communication and successful execution of speech acts.
 
-<span style="font-size: larger;">**Morphology**</span>
+## Morphology
 
 
 <img src="https://www.shutterstock.com/image-photo/study-morphology-linguistics-concept-wooden-260nw-2239484605.jpg" alt="Morphology">

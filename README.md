@@ -170,24 +170,25 @@ Morphemes can be categorized as follows:
 
 First language acquisition is an **essential process** that takes place with unimaginable speed. As human beings we become language-users without overt instruction long before we go to school. There is an assumption that there is an innate predisposition in the human infant to acquire language.
 
-## ** CRITICAL PERIOD **
+## **CRITICAL PERIOD**
 In the chapter XIII of the book _The Study of Language_ by George Yule we read that a child who is not able to hear or is not allowed to use language **will learn no language**. The critical period that lasts until child's puberty is the state when the human brain is most ready to receive input and learn a particular language. To do so, there is necessity of the interaction with other language-users, for example, parents, in order to bring the general language capacity into operation with a particular language. **If a child does not acquire language during this period, then it will find it almost impossible to learn language later on**.
 
+![caretaker](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754268/6e5a45a3-bf6c-4fa0-8f68-0d00e3f066bd)
 
 ## **IS THE LANGUAGE GENETICALLY INHERITED?**
 The language a child learns is not genetically inherited but is acquired in a particular language-using environment, so via cultural transmission. “The child must also be physically capable of sending and receiving sound signals in a language"; the opportunity to interact with other via language.
 
-## ** THE SPEECH OF THE CARETAKER AND ITS ROLE **
+## **THE SPEECH OF THE CARETAKER AND ITS ROLE**
 It is reflexive that parents speak to their children using simple sentence structures and exaggerated intonation. However, researchers agree in saying that **a child should be spoken to as an adult**. There should be no distortion of speech, no usage of 'baby talk'. The child is supposed to develop and liken its speech to natural human conversation. 
 
-![caretaker image](caretaker.jpg)
 
-## ** PRE – LANGUAGE STAGES OF SOUND PRODUCTION **
+
+## **PRE – LANGUAGE STAGES OF SOUND PRODUCTION**
 -	3 months: the first recognizable sounds are described as cooing with velar sounds [k]; [g]
 -	6 months: the sound production is described as babbling; it may involve syllable types sound 
 -	9 months: there are being produced intonation patterns to the consonant and vowel combination. 
 
-## **USAGE OF WORDS **
+## **USAGE OF WORDS**
 1.	The one-word stage (12-15 months) children begin to produce a variety single term that are uttered for everyday objects such as: milk, dog, ball.
 2.	The two-word stage: the child tries to communicate with expressions. By the stage of 2 the child is producing 200-400 distinct words.
 3.	Telegraphic speech: 2 and 3 years old, the children are initiating more talk and producing multiple-word utterances. At this stage a child uses strings of lexical morphemes. Example: mom kiss dad, Mary make pizza
@@ -197,7 +198,7 @@ The child’s linguistic production is mostly a matter of testing whether produc
 
 ### QUESTIONS
 In forming questions, the main point is simple adding a wh-form (where, who) to the beginning of the expression or utter the expression with a rise in intonation towards the end.
-![QUESTION image](question.jpg)
+![question](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754268/2bc5eb28-0ae5-4326-b548-699c9f6ec5c0)
 
 ### NEGATIVES
 

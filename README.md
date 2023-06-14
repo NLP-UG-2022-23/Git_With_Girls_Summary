@@ -3,9 +3,9 @@
 # Psycholinguistics
 
 Psycholinguistics is indeed the scientific study of how people comprehend, produce, and acquire language. It combines principles and methods from psychology and linguistics to investigate how language is processed and represented in the human mind.
-![Psycholinguistics image](schwarz-florian-glossa-psycholinguistics-journal-teaser.jpg)
 
-## Aim
+![schwarz-florian-glossa-psycholinguistics-journal-teaser](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754426/1c5e0ede-e608-41f5-8b14-b42aaadaba3d)
+
 
 ## Aim
 
@@ -15,23 +15,21 @@ Psycholinguistics aims to uncover the cognitive processes and mechanisms underly
 ## Speech and Comprehension Errors
 Although dissecting brains to unravel their functioning is a challenging task, there are still valuable indications regarding the language processing abilities of our brains. One such source of insights is the occurrence of speech errors, which even regular individuals commonly make. Below are several illustrative examples:
 
-- The Tip of the Tongue (TOT) phenomenon: This phenomenon arises when we struggle to recall an entire word, yet retain a vague sense of its phonological features, such as the initial letter, number of syllables, or stress pattern. The TOT phenomenon suggests that our brains store words based on their phonological information. Occasionally, we substitute another word that is similar, which is referred to as malapropism. For instance, a baseball player once mistakenly stated, "Texas has a lot of electrical votes" instead of "Texas has a lot of electoral votes."
+- **The Tip of the Tongue (TOT) phenomenon:** This phenomenon arises when we struggle to recall an entire word, yet retain a vague sense of its phonological features, such as the initial letter, number of syllables, or stress pattern. The TOT phenomenon suggests that our brains store words based on their phonological information. Occasionally, we substitute another word that is similar, which is referred to as malapropism. For instance, a baseball player once mistakenly stated, "Texas has a lot of electrical votes" instead of "Texas has a lot of electoral votes."
 
--Slip of the Tongue: This error transpires when we know how words should be pronounced, but still commit mistakes during their production. One particular type of slip is known as spoonerism, which involves interchanging the initial sounds of words. It derives its name from William Spooner, an Oxford clergyman renowned for his spoonerisms, such as "You have hissed all my mystery lectures. You have tasted a whole worm. Please leave Oxford on the next town drain."
+- **Slip of the Tongue:** This error transpires when we know how words should be pronounced, but still commit mistakes during their production. One particular type of slip is known as spoonerism, which involves interchanging the initial sounds of words. It derives its name from William Spooner, an Oxford clergyman renowned for his spoonerisms, such as "You have hissed all my mystery lectures. You have tasted a whole worm. Please leave Oxford on the next town drain."
 
--Slip of the Ear/Mondegreen: This type of error occurs when we misinterpret an expression we hear as a near-homophonic alternative. An example of this is the misheard line "Gladly the cross-eyed bear" instead of "Gladly the cross I bear" in the hymn "Keep Thou My Way."
+- **Slip of the Ear/Mondegreen:** This type of error occurs when we misinterpret an expression we hear as a near-homophonic alternative. An example of this is the misheard line "Gladly the cross-eyed bear" instead of "Gladly the cross I bear" in the hymn "Keep Thou My Way."
 
 These speech errors shed light on the challenges faced by individuals with language disorders. Linguists have extensively examined these errors and proposed models to elucidate how our brains process language.
+
 
 ## Application
  
 By examining the mental processes involved in language use, psycholinguistics provides valuable insights into the nature of human language processing. It helps us understand the mechanisms that allow us to comprehend and produce language, as well as the factors that influence language comprehension and production. Psycholinguistic research often involves experiments and data analysis to gather empirical evidence about language processing and to develop theories and models that explain these processes.
 
 
-
 <span style="font-size: larger;"> ## Pragmatics</span>
-
-<span style="font-size: larger;">## Pragmatics</span>
 
 
 Pragmatics is the study of how context affects meaning. It involves analyzing physical and linguistic context to understand communication.
@@ -166,6 +164,7 @@ Morphemes can be categorized as follows:
 
 6. **Functional morphemes**: These morphemes serve functional purposes in a language, such as determiners, pronouns, conjunctions, etc. Examples include words like "whatever," "because," and "against. 
 
+
 Affixation
 
 It is the process of using affixes, which are morphemes, to create new words. Affixes can be categorized into several types:
@@ -189,3 +188,47 @@ Original word: govern
 Affixes: anti- inter- -ment -al-ist
 
 In this case, "govern" is the root, while "anti-" and "inter-" are prefixes, and "-ment," "-al," and "-ist" are suffixes.
+
+=======
+# **Language Acquisition**
+
+First language acquisition is an **essential process** that takes place with unimaginable speed. As human beings we become language-users without overt instruction long before we go to school. There is an assumption that there is an innate predisposition in the human infant to acquire language.
+
+## **CRITICAL PERIOD**
+In the chapter XIII of the book _The Study of Language_ by George Yule we read that a child who is not able to hear or is not allowed to use language **will learn no language**. The critical period that lasts until child's puberty is the state when the human brain is most ready to receive input and learn a particular language. To do so, there is necessity of the interaction with other language-users, for example, parents, in order to bring the general language capacity into operation with a particular language. **If a child does not acquire language during this period, then it will find it almost impossible to learn language later on**.
+
+![caretaker](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754268/6e5a45a3-bf6c-4fa0-8f68-0d00e3f066bd)
+
+## **IS THE LANGUAGE GENETICALLY INHERITED?**
+The language a child learns is not genetically inherited but is acquired in a particular language-using environment, so via cultural transmission. “The child must also be physically capable of sending and receiving sound signals in a language"; the opportunity to interact with other via language.
+
+## **THE SPEECH OF THE CARETAKER AND ITS ROLE**
+It is reflexive that parents speak to their children using simple sentence structures and exaggerated intonation. However, researchers agree in saying that **a child should be spoken to as an adult**. There should be no distortion of speech, no usage of 'baby talk'. The child is supposed to develop and liken its speech to natural human conversation. 
+
+
+
+## **PRE – LANGUAGE STAGES OF SOUND PRODUCTION**
+-	3 months: the first recognizable sounds are described as cooing with velar sounds [k]; [g]
+-	6 months: the sound production is described as babbling; it may involve syllable types sound 
+-	9 months: there are being produced intonation patterns to the consonant and vowel combination. 
+
+## **USAGE OF WORDS**
+1.	The one-word stage (12-15 months) children begin to produce a variety single term that are uttered for everyday objects such as: milk, dog, ball.
+2.	The two-word stage: the child tries to communicate with expressions. By the stage of 2 the child is producing 200-400 distinct words.
+3.	Telegraphic speech: 2 and 3 years old, the children are initiating more talk and producing multiple-word utterances. At this stage a child uses strings of lexical morphemes. Example: mom kiss dad, Mary make pizza
+
+## **THE ACQUISITION PROCESS**
+The child’s linguistic production is mostly a matter of testing whether produced constructions work or not. The child can repeat versions of what adults say since it is in the process of adopting a lot of vocabulary from their speech. One factor which seems to be crucial is the actual use of sound and word combinations in interaction with others.
+
+### QUESTIONS
+In forming questions, the main point is simple adding a wh-form (where, who) to the beginning of the expression or utter the expression with a rise in intonation towards the end.
+![question](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754268/2bc5eb28-0ae5-4326-b548-699c9f6ec5c0)
+
+### NEGATIVES
+
+In the case of negatives the pattern is simple: 'no' or 'not' should be stuck on the beginning of any expression. Later, the additional negative forms don’t and can’t are used and with no and not, begin to be placed in front of the verb. When a child is older and more conscious it uses auxiliary forms, such as didn’t and won’t.
+
+## **What role does semantics play in language acquisition process?**
+Many children use their limited vocabulary to refer to many unrelated objects. Example: a child uses how-how to refer to a dog but later it extends how-how to refer to cats, horses, and cows. This process is called overextension.
+Even though the child is still acquiring aspects of his or her native language through the later years of childhood, it is normally assumed that, by the age of five, the child has completed the greater part of the basic language acquisition process.
+

@@ -21,6 +21,8 @@ Although dissecting brains to unravel their functioning is a challenging task, t
 
 - **Slip of the Ear/Mondegreen:** This type of error occurs when we misinterpret an expression we hear as a near-homophonic alternative. An example of this is the misheard line "Gladly the cross-eyed bear" instead of "Gladly the cross I bear" in the hymn "Keep Thou My Way."
 
+![GettyImages-188011449-5c2a757c46e0fb000118f5db](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754426/8db07560-7276-4a11-9cf2-0f91dfa298d5)
+
 These speech errors shed light on the challenges faced by individuals with language disorders. Linguists have extensively examined these errors and proposed models to elucidate how our brains process language.
 
 
@@ -165,29 +167,33 @@ Morphemes can be categorized as follows:
 6. **Functional morphemes**: These morphemes serve functional purposes in a language, such as determiners, pronouns, conjunctions, etc. Examples include words like "whatever," "because," and "against. 
 
 
-Affixation
+**Affixation**
+
+![Blog-2-morphology-picture](https://github.com/NLP-UG-2022-23/Git_With_Girls_Summary/assets/131754426/7a5e28e3-e338-4804-b05d-0bac48a29027)
 
 It is the process of using affixes, which are morphemes, to create new words. Affixes can be categorized into several types:
 
-    Suffixes: These morphemes are added to the end of a word. For example, in the words "motion" and "investigate," the suffixes are "-ion" and "-ate" respectively. Suffixes are indicated by an initial hyphen.
+- Suffixes: These morphemes are added to the end of a word. For example, in the words "motion" and "investigate," the suffixes are "-ion" and "-ate" respectively. Suffixes are indicated by an initial hyphen.
 
-    Prefixes: These morphemes are attached to the beginning of a word. For instance, in the words "redo" and "unthinkable," the prefixes are "re-" and "un-" respectively. Prefixes are denoted by a terminal hyphen.
+- Prefixes: These morphemes are attached to the beginning of a word. For instance, in the words "redo" and "unthinkable," the prefixes are "re-" and "un-" respectively. Prefixes are denoted by a terminal hyphen.
 
-    Infixes: While English does not commonly use infixes, which are morphemes inserted within a word, some languages do. An exception in English could be the infix "-bloody-" in the following example:
+- Infixes: While English does not commonly use infixes, which are morphemes inserted within a word, some languages do. An exception in English could be the infix "-bloody-" in the following example:
 
     Q: Are you going to the concert tonight?
     A: Absobloodylutely.
 
     In this case, "-bloody-" is inserted within the word "absolutely." Infixes are represented by both initial and terminal hyphens.
 
-    Circumfixes: Circumfixes are affixes that surround a word, attaching to both the beginning and the end. English has limited examples of circumfixes, but they are more common in other languages. One well-known example is the German past participle formed by "ge-" at the beginning and "-t" at the end for regular verbs. In English, "en-" and "-en" in words like "enlighten" and "embolden" are essentially the same circumfix. In older usage, the present participle could be formed using the circumfix "a-" at the beginning and "-ing" at the end, as in "a-flying" or "a-caroling." Circumfixes are represented by both initial and terminal hyphens.
+- Circumfixes: Circumfixes are affixes that surround a word, attaching to both the beginning and the end. English has limited examples of circumfixes, but they are more common in other languages. One well-known example is the German past participle formed by "ge-" at the beginning and "-t" at the end for regular verbs. In English, "en-" and "-en" in words like "enlighten" and "embolden" are essentially the same circumfix. In older usage, the present participle could be formed using the circumfix "a-" at the beginning and "-ing" at the end, as in "a-flying" or "a-caroling." Circumfixes are represented by both initial and terminal hyphens.
+
 
 Sometimes, multiple affixations occur, where affixes are added successively. The original word, which is a free morpheme, is called the stem or root. Affixes can be attached to the stem in a sequential manner. For example:
 
 Original word: govern
+
 Affixes: anti- inter- -ment -al-ist
 
-In this case, "govern" is the root, while "anti-" and "inter-" are prefixes, and "-ment," "-al," and "-ist" are suffixes.
+In this case, *"govern"* is the **root**, while *"anti-"* and *"inter-"* are **prefixes**, and *"-ment,"* *"-al,"* and *"-ist"* are **suffixes.**
 
 =======
 # **Language Acquisition**
